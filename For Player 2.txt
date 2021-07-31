@@ -1,0 +1,264 @@
+// For matching the vertically
+			if(moves==1)
+				{
+				v21=v21+moves;
+				if(v21==12)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==4)
+				{
+				v21=v21+moves;
+				if(v21==12)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==7)
+				{
+				v21=v21+moves;
+				if(v21==12)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==2)
+				{
+				v22=v22+moves;
+				if(v22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==5)
+				{
+				v22=v22+moves;
+				if(v22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==8)
+				{
+				v22=v22+moves;
+				if(v22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==3)
+				{
+				v23=v23+moves;
+				if(v23==18)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==6)
+				{
+				v23=v23+moves;
+				if(v23==18)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==9)
+				{
+				v23=v23+moves;
+				if(v23==18)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+// For matching the Horizontally
+			if(moves==1)
+				{
+				h21=h21+moves;
+				if(h21==6)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==2)
+				{
+				h21=h21+moves;
+				if(h21==6)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==3)
+				{
+				h21=h21+moves;
+				if(h21==6)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==4)
+				{
+				h22=h22+moves;
+				if(h22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==5)
+				{
+				h22=h22+moves;
+				if(h22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==6)
+				{
+				h22=h22+moves;
+				if(h22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==7)
+				{
+				h23=h23+moves;
+				if(h23==24)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==8)
+				{
+				h23=h23+moves;
+				if(h23==18)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==9)
+				{
+				h23=h23+moves;
+				if(h23==24)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+// For matching the Diagonal
+			if(moves==1)
+				{
+				d21=d21+moves;
+				if(d21==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==9)
+				{
+				d21=d21+moves;
+				if(d21==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==3)
+				{
+				d21=d21+moves;
+				if(d21==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==9)
+				{
+				d22=d22+moves;
+				if(d22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
+				else if(moves==5)
+				{
+				d22=d22+moves;
+				if(d22==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				d21=d21+moves;
+				if(d21==15)
+					{
+					printf("Player 2 have won the game");
+					}
+				else
+					{
+					}
+				}
